@@ -1,0 +1,7 @@
+<p>
+In HTML, the <code>&lt;img&gt;</code> tag is used to display images on a web page.  
+The <code>src</code> attribute specifies the path of the image file,  
+the <code>alt</code> attribute provides alternative text if the image cannot be displayed,  
+and the <code>width</code> and <code>height</code> attributes define the size of the image.  
+This makes it easy to add pictures and make web pages more attractive and informative.
+</p>
